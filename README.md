@@ -1,5 +1,6 @@
 
   # Venture Link - 1
+  A web platform connecting startups with investors, featuring detailed profiles and secure communication.
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
